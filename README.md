@@ -1,6 +1,6 @@
 # Exercícios de Java — Faculdade
 
-Este repositório reúne exercícios e pequenos projetos desenvolvidos durante meus estudos de Java na faculdade. Ele registra minha evolução e apresenta, de forma organizada, os conceitos que venho praticando — não apenas como material acadêmico, mas também para estudantes, profissionais e outras pessoas interessadas em acompanhar meu aprendizado.
+Este repositório reúne exercícios e pequenos projetos desenvolvidos durante meus estudos de Java na faculdade. Ele registra minha evolução e apresenta, de forma organizada, os conceitos que venho praticando <!-- — não apenas como material acadêmico, mas também para estudantes, profissionais e outras pessoas interessadas em acompanhar meu aprendizado. -->
 
 As atividades são independentes e estão organizadas por pasta. Clique nos títulos para abrir cada projeto e acessar seus arquivos-fonte.
 
